@@ -1,0 +1,1 @@
+SQL문이 포함된 파일 SELECT * FROM tbl_test
