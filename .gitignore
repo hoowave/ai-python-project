@@ -9,3 +9,4 @@ __pycache__/
 *.exe
 *.xls
 *.xlsx
+tensor_project/.env
